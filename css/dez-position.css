@@ -1,0 +1,1026 @@
+/*
+FrameWork Case : dez-positions
+position Types : relative, fixed.
+Values In : Percentage
+Height : 100 percent
+Width : 100 percent
+Difference in width : 1 percent
+Difference in height : 1 percent
+
+*/
+.dez-adjust-lr-1
+{
+	position:relative;
+	left:1%;
+}
+.dez-adjust-lr-2
+{
+	position:relative;
+	left:2%;
+}
+.dez-adjust-lr-3
+{
+	position:relative;
+	left:3%;
+}
+.dez-adjust-lr-4
+{
+	position:relative;
+	left:4%;
+}
+.dez-adjust-lr-5
+{
+	position:relative;
+	left:5%;
+}
+.dez-adjust-lr-6
+{
+	position:relative;
+	left:6%;
+}
+.dez-adjust-lr-7
+{
+	position:relative;
+	left:7%;
+}
+.dez-adjust-lr-8
+{
+	position:relative;
+	left:8%;
+}
+.dez-adjust-lr-9
+{
+	position:relative;
+	left:9%;
+}
+.dez-adjust-lr-10
+{
+	position:relative;
+	left:10%;
+}
+.dez-adjust-lr-11
+{
+	position:relative;
+	left:11%;
+}
+.dez-adjust-lr-12
+{
+	position:relative;
+	left:12%;
+}
+.dez-adjust-lr-13
+{
+	position:relative;
+	left:13%;
+}
+.dez-adjust-lr-14
+{
+	position:relative;
+	left:14%;
+}
+.dez-adjust-lr-15
+{
+	position:relative;
+	left:15%;
+}
+.dez-adjust-lr-16
+{
+	position:relative;
+	left:16%;
+}
+.dez-adjust-lr-17
+{
+	position:relative;
+	left:17%;
+}
+.dez-adjust-lr-18
+{
+	position:relative;
+	left:18%;
+}
+.dez-adjust-lr-19
+{
+	position:relative;
+	left:19%;
+}
+.dez-adjust-lr-20
+{
+	position:relative;
+	left:20%;
+}
+.dez-adjust-lr-21
+{
+	position:relative;
+	left:21%;
+}
+.dez-adjust-lr-22
+{
+	position:relative;
+	left:22%;
+}
+.dez-adjust-lr-23
+{
+	position:relative;
+	left:23%;
+}
+.dez-adjust-lr-24
+{
+	position:relative;
+	left:24%;
+}
+.dez-adjust-lr-25
+{
+	position:relative;
+	left:25%;
+}
+.dez-adjust-lr-26
+{
+	position:relative;
+	left:26%;
+}
+.dez-adjust-lr-27
+{
+	position:relative;
+	left:27%;
+}
+.dez-adjust-lr-28
+{
+	position:relative;
+	left:28%;
+}
+.dez-adjust-lr-29
+{
+	position:relative;
+	left:29%;
+}
+.dez-adjust-lr-30
+{
+	position:relative;
+	left:30%;
+}
+.dez-adjust-lr-31
+{
+	position:relative;
+	left:31%;
+}
+.dez-adjust-lr-32
+{
+	position:relative;
+	left:32%;
+}
+.dez-adjust-lr-33
+{
+	position:relative;
+	left:33%;
+}
+.dez-adjust-lr-34
+{
+	position:relative;
+	left:34%;
+}
+.dez-adjust-lr-35
+{
+	position:relative;
+	left:35%;
+}
+.dez-adjust-lr-36
+{
+	position:relative;
+	left:36%;
+}
+.dez-adjust-lr-37
+{
+	position:relative;
+	left:37%;
+}
+.dez-adjust-lr-38
+{
+	position:relative;
+	left:38%;
+}
+.dez-adjust-lr-39
+{
+	position:relative;
+	left:39%;
+}
+.dez-adjust-lr-40
+{
+	position:relative;
+	left:40%;
+}
+.dez-adjust-lr-41
+{
+	position:relative;
+	left:41%;
+}
+.dez-adjust-lr-42
+{
+	position:relative;
+	left:42%;
+}
+.dez-adjust-lr-43
+{
+	position:relative;
+	left:43%;
+}
+.dez-adjust-lr-44
+{
+	position:relative;
+	left:44%;
+}
+.dez-adjust-lr-45
+{
+	position:relative;
+	left:45%;
+}
+.dez-adjust-lr-46
+{
+	position:relative;
+	left:46%;
+}
+.dez-adjust-lr-47
+{
+	position:relative;
+	left:47%;
+}
+.dez-adjust-lr-48
+{
+	position:relative;
+	left:48%;
+}
+.dez-adjust-lr-49
+{
+	position:relative;
+	left:49%;
+}
+.dez-adjust-lr-50
+{
+	position:relative;
+	left:50%;
+}
+.dez-adjust-lr-51
+{
+	position:relative;
+	left:51%;
+}
+.dez-adjust-lr-52
+{
+	position:relative;
+	left:52%;
+}
+.dez-adjust-lr-53
+{
+	position:relative;
+	left:53%;
+}
+.dez-adjust-lr-54
+{
+	position:relative;
+	left:54%;
+}
+.dez-adjust-lr-55
+{
+	position:relative;
+	left:55%;
+}
+.dez-adjust-lr-56
+{
+	position:relative;
+	left:56%;
+}
+.dez-adjust-lr-57
+{
+	position:relative;
+	left:57%;
+}
+.dez-adjust-lr-58
+{
+	position:relative;
+	left:58%;
+}
+.dez-adjust-lr-59
+{
+	position:relative;
+	left:59%;
+}
+.dez-adjust-lr-60
+{
+	position:relative;
+	left:60%;
+}
+.dez-adjust-lr-61
+{
+	position:relative;
+	left:61%;
+}
+.dez-adjust-lr-62
+{
+	position:relative;
+	left:62%;
+}
+.dez-adjust-lr-63
+{
+	position:relative;
+	left:63%;
+}
+.dez-adjust-lr-64
+{
+	position:relative;
+	left:64%;
+}
+.dez-adjust-lr-65
+{
+	position:relative;
+	left:65%;
+}
+.dez-adjust-lr-66
+{
+	position:relative;
+	left:66%;
+}
+.dez-adjust-lr-67
+{
+	position:relative;
+	left:67%;
+}
+.dez-adjust-lr-68
+{
+	position:relative;
+	left:68%;
+}
+.dez-adjust-lr-69
+{
+	position:relative;
+	left:69%;
+}
+.dez-adjust-lr-70
+{
+	position:relative;
+	left:70%;
+}
+.dez-adjust-lr-71
+{
+	position:relative;
+	left:71%;
+}
+.dez-adjust-lr-72
+{
+	position:relative;
+	left:72%;
+}
+.dez-adjust-lr-73
+{
+	position:relative;
+	left:73%;
+}
+.dez-adjust-lr-74
+{
+	position:relative;
+	left:74%;
+}
+.dez-adjust-lr-75
+{
+	position:relative;
+	left:75%;
+}
+.dez-adjust-lr-76
+{
+	position:relative;
+	left:76%;
+}
+.dez-adjust-lr-77
+{
+	position:relative;
+	left:77%;
+}
+.dez-adjust-lr-78
+{
+	position:relative;
+	left:78%;
+}
+.dez-adjust-lr-79
+{
+	position:relative;
+	left:79%;
+}
+.dez-adjust-lr-80
+{
+	position:relative;
+	left:80%;
+}
+.dez-adjust-lr-81
+{
+	position:relative;
+	left:81%;
+}
+.dez-adjust-lr-82
+{
+	position:relative;
+	left:82%;
+}
+.dez-adjust-lr-83
+{
+	position:relative;
+	left:83%;
+}
+.dez-adjust-lr-84
+{
+	position:relative;
+	left:84%;
+}
+.dez-adjust-lr-85
+{
+	position:relative;
+	left:85%;
+}
+.dez-adjust-lr-86
+{
+	position:relative;
+	left:86%;
+}
+.dez-adjust-lr-87
+{
+	position:relative;
+	left:87%;
+}
+.dez-adjust-lr-88
+{
+	position:relative;
+	left:88%;
+}
+.dez-adjust-lr-89
+{
+	position:relative;
+	left:89%;
+}
+.dez-adjust-lr-90
+{
+	position:relative;
+	left:90%;
+}
+.dez-adjust-lr-91
+{
+	position:relative;
+	left:91%;
+}
+.dez-adjust-lr-92
+{
+	position:relative;
+	left:92%;
+}
+.dez-adjust-lr-93
+{
+	position:relative;
+	left:93%;
+}
+.dez-adjust-lr-94
+{
+	position:relative;
+	left:94%;
+}
+.dez-adjust-lr-95
+{
+	position:relative;
+	left:95%;
+}
+.dez-adjust-lr-96
+{
+	position:relative;
+	left:96%;
+}
+.dez-adjust-lr-97
+{
+	position:relative;
+	left:97%;
+}
+.dez-adjust-lr-98
+{
+	position:relative;
+	left:98%;
+}
+.dez-adjust-lr-99
+{
+	position:relative;
+	left:99%;
+}
+.dez-adjust-lr-100
+{
+	position:relative;
+	left:100%;
+}
+/*
+=================================================
+Dez- framework case dez-positions up down case start from here.
+=================================================
+*/
+.dez-adjust-ud-1
+{
+	position:absolute;
+	top:1%;
+}
+.dez-adjust-ud-2
+{
+	position:absolute;
+	top:2%;
+}
+.dez-adjust-ud-3
+{
+	position:absolute;
+	top:3%;
+}
+.dez-adjust-ud-4
+{
+	position:absolute;
+	top:4%;
+}
+.dez-adjust-ud-5
+{
+	position:absolute;
+	top:5%;
+}
+.dez-adjust-ud-6
+{
+	position:absolute;
+	top:6%;
+}
+.dez-adjust-ud-7
+{
+	position:absolute;
+	top:7%;
+}
+.dez-adjust-ud-8
+{
+	position:absolute;
+	top:8%;
+}
+.dez-adjust-ud-9
+{
+	position:absolute;
+	top:9%;
+}
+.dez-adjust-ud-10
+{
+	position:absolute;
+	top:10%;
+}
+.dez-adjust-ud-11
+{
+	position:absolute;
+	top:11%;
+}
+.dez-adjust-ud-12
+{
+	position:absolute;
+	top:12%;
+}
+.dez-adjust-ud-13
+{
+	position:absolute;
+	top:13%;
+}
+.dez-adjust-ud-14
+{
+	position:absolute;
+	top:14%;
+}
+.dez-adjust-ud-15
+{
+	position:absolute;
+	top:15%;
+}
+.dez-adjust-ud-16
+{
+	position:absolute;
+	top:16%;
+}
+.dez-adjust-ud-17
+{
+	position:absolute;
+	top:17%;
+}
+.dez-adjust-ud-18
+{
+	position:absolute;
+	top:18%;
+}
+.dez-adjust-ud-19
+{
+	position:absolute;
+	top:19%;
+}
+.dez-adjust-ud-20
+{
+	position:absolute;
+	top:20%;
+}
+.dez-adjust-ud-21
+{
+	position:absolute;
+	top:21%;
+}
+.dez-adjust-ud-22
+{
+	position:absolute;
+	top:22%;
+}
+.dez-adjust-ud-23
+{
+	position:absolute;
+	top:23%;
+}
+.dez-adjust-ud-24
+{
+	position:absolute;
+	top:24%;
+}
+.dez-adjust-ud-25
+{
+	position:absolute;
+	top:25%;
+}
+.dez-adjust-ud-26
+{
+	position:absolute;
+	top:26%;
+}
+.dez-adjust-ud-27
+{
+	position:absolute;
+	top:27%;
+}
+.dez-adjust-ud-28
+{
+	position:absolute;
+	top:28%;
+}
+.dez-adjust-ud-29
+{
+	position:absolute;
+	top:29%;
+}
+.dez-adjust-ud-30
+{
+	position:absolute;
+	top:30%;
+}
+.dez-adjust-ud-31
+{
+	position:absolute;
+	top:31%;
+}
+.dez-adjust-ud-32
+{
+	position:absolute;
+	top:32%;
+}
+.dez-adjust-ud-33
+{
+	position:absolute;
+	top:33%;
+}
+.dez-adjust-ud-34
+{
+	position:absolute;
+	top:34%;
+}
+.dez-adjust-ud-35
+{
+	position:absolute;
+	top:35%;
+}
+.dez-adjust-ud-36
+{
+	position:absolute;
+	top:36%;
+}
+.dez-adjust-ud-37
+{
+	position:absolute;
+	top:37%;
+}
+.dez-adjust-ud-38
+{
+	position:absolute;
+	top:38%;
+}
+.dez-adjust-ud-39
+{
+	position:absolute;
+	top:39%;
+}
+.dez-adjust-ud-40
+{
+	position:absolute;
+	top:40%;
+}
+.dez-adjust-ud-41
+{
+	position:absolute;
+	top:41%;
+}
+.dez-adjust-ud-42
+{
+	position:absolute;
+	top:42%;
+}
+.dez-adjust-ud-43
+{
+	position:absolute;
+	top:43%;
+}
+.dez-adjust-ud-44
+{
+	position:absolute;
+	top:44%;
+}
+.dez-adjust-ud-45
+{
+	position:absolute;
+	top:45%;
+}
+.dez-adjust-ud-46
+{
+	position:absolute;
+	top:46%;
+}
+.dez-adjust-ud-47
+{
+	position:absolute;
+	top:47%;
+}
+.dez-adjust-ud-48
+{
+	position:absolute;
+	top:48%;
+}
+.dez-adjust-ud-49
+{
+	position:absolute;
+	top:49%;
+}
+.dez-adjust-ud-50
+{
+	position:absolute;
+	top:50%;
+}
+.dez-adjust-ud-51
+{
+	position:absolute;
+	top:51%;
+}
+.dez-adjust-ud-52
+{
+	position:absolute;
+	top:52%;
+}
+.dez-adjust-ud-53
+{
+	position:absolute;
+	top:53%;
+}
+.dez-adjust-ud-54
+{
+	position:absolute;
+	top:54%;
+}
+.dez-adjust-ud-55
+{
+	position:absolute;
+	top:55%;
+}
+.dez-adjust-ud-56
+{
+	position:absolute;
+	top:56%;
+}
+.dez-adjust-ud-57
+{
+	position:absolute;
+	top:57%;
+}
+.dez-adjust-ud-58
+{
+	position:absolute;
+	top:58%;
+}
+.dez-adjust-ud-59
+{
+	position:absolute;
+	top:59%;
+}
+.dez-adjust-ud-60
+{
+	position:absolute;
+	top:60%;
+}
+.dez-adjust-ud-61
+{
+	position:absolute;
+	top:61%;
+}
+.dez-adjust-ud-62
+{
+	position:absolute;
+	top:62%;
+}
+.dez-adjust-ud-63
+{
+	position:absolute;
+	top:63%;
+}
+.dez-adjust-ud-64
+{
+	position:absolute;
+	top:64%;
+}
+.dez-adjust-ud-65
+{
+	position:absolute;
+	top:65%;
+}
+.dez-adjust-ud-66
+{
+	position:absolute;
+	top:66%;
+}
+.dez-adjust-ud-67
+{
+	position:absolute;
+	top:67%;
+}
+.dez-adjust-ud-68
+{
+	position:absolute;
+	top:68%;
+}
+.dez-adjust-ud-69
+{
+	position:absolute;
+	top:69%;
+}
+.dez-adjust-ud-70
+{
+	position:absolute;
+	top:70%;
+}
+.dez-adjust-ud-71
+{
+	position:absolute;
+	top:71%;
+}
+.dez-adjust-ud-72
+{
+	position:absolute;
+	top:72%;
+}
+.dez-adjust-ud-73
+{
+	position:absolute;
+	top:73%;
+}
+.dez-adjust-ud-74
+{
+	position:absolute;
+	top:74%;
+}
+.dez-adjust-ud-75
+{
+	position:absolute;
+	top:75%;
+}
+.dez-adjust-ud-76
+{
+	position:absolute;
+	top:76%;
+}
+.dez-adjust-ud-77
+{
+	position:absolute;
+	top:77%;
+}
+.dez-adjust-ud-78
+{
+	position:absolute;
+	top:78%;
+}
+.dez-adjust-ud-79
+{
+	position:absolute;
+	top:79%;
+}
+.dez-adjust-ud-80
+{
+	position:absolute;
+	top:80%;
+}
+.dez-adjust-ud-81
+{
+	position:absolute;
+	top:81%;
+}
+.dez-adjust-ud-82
+{
+	position:absolute;
+	top:82%;
+}
+.dez-adjust-ud-83
+{
+	position:absolute;
+	top:83%;
+}
+.dez-adjust-ud-84
+{
+	position:absolute;
+	top:84%;
+}
+.dez-adjust-ud-85
+{
+	position:absolute;
+	top:85%;
+}
+.dez-adjust-ud-86
+{
+	position:absolute;
+	top:86%;
+}
+.dez-adjust-ud-87
+{
+	position:absolute;
+	top:87%;
+}
+.dez-adjust-ud-88
+{
+	position:absolute;
+	top:88%;
+}
+.dez-adjust-ud-89
+{
+	position:absolute;
+	top:89%;
+}
+.dez-adjust-ud-90
+{
+	position:absolute;
+	top:90%;
+}
+.dez-adjust-ud-91
+{
+	position:absolute;
+	top:91%;
+}
+.dez-adjust-ud-92
+{
+	position:absolute;
+	top:92%;
+}
+.dez-adjust-ud-93
+{
+	position:absolute;
+	top:93%;
+}
+.dez-adjust-ud-94
+{
+	position:absolute;
+	top:94%;
+}
+.dez-adjust-ud-95
+{
+	position:absolute;
+	top:95%;
+}
+.dez-adjust-ud-96
+{
+	position:absolute;
+	top:96%;
+}
+.dez-adjust-ud-97
+{
+	position:absolute;
+	top:97%;
+}
+.dez-adjust-ud-98
+{
+	position:absolute;
+	top:98%;
+}
+.dez-adjust-ud-99
+{
+	position:absolute;
+	top:99%;
+}
+.dez-adjust-ud-100
+{
+	position:absolute;
+	top:100%;
+}
+@media only screen and (min-width:360px) and (max-width:640px) and (orientation:portrait)
+{
+	.dez-adjust-lr-1,.dez-adjust-lr-2,.dez-adjust-lr-3,.dez-adjust-lr-4,.dez-adjust-lr-5,.dez-adjust-lr-6,.dez-adjust-lr-7,.dez-adjust-lr-8,.dez-adjust-lr-9,.dez-adjust-lr-10,.dez-adjust-lr-11,.dez-adjust-lr-12,.dez-adjust-lr-13,.dez-adjust-lr-14,.dez-adjust-lr-15,.dez-adjust-lr-16,.dez-adjust-lr-17,.dez-adjust-lr-18,.dez-adjust-lr-19,.dez-adjust-lr-20,.dez-adjust-lr-21,.dez-adjust-lr-22,.dez-adjust-lr-23,.dez-adjust-lr-24,.dez-adjust-lr-25,.dez-adjust-lr-26,.dez-adjust-lr-27,.dez-adjust-lr-28,.dez-adjust-lr-29,.dez-adjust-lr-30,.dez-adjust-lr-31,.dez-adjust-lr-32,.dez-adjust-lr-33,.dez-adjust-lr-34,.dez-adjust-lr-35,.dez-adjust-lr-36,.dez-adjust-lr-37,.dez-adjust-lr-38,.dez-adjust-lr-39,.dez-adjust-lr-40,.dez-adjust-lr-41,.dez-adjust-lr-42,.dez-adjust-lr-43,.dez-adjust-lr-44,.dez-adjust-lr-45,.dez-adjust-lr-46,.dez-adjust-lr-47,.dez-adjust-lr-48,.dez-adjust-lr-49,.dez-adjust-lr-50,.dez-adjust-lr-51,.dez-adjust-lr-52,.dez-adjust-lr-53,.dez-adjust-lr-54,.dez-adjust-lr-55,.dez-adjust-lr-56,.dez-adjust-lr-57,.dez-adjust-lr-58,.dez-adjust-lr-59,.dez-adjust-lr-60,.dez-adjust-lr-61,.dez-adjust-lr-62,.dez-adjust-lr-63,.dez-adjust-lr-64,.dez-adjust-lr-65,.dez-adjust-lr-66,.dez-adjust-lr-67,.dez-adjust-lr-68,.dez-adjust-lr-69,.dez-adjust-lr-70,.dez-adjust-lr-71,.dez-adjust-lr-72,.dez-adjust-lr-73,.dez-adjust-lr-74,.dez-adjust-lr-75,.dez-adjust-lr-76,.dez-adjust-lr-77,.dez-adjust-lr-78,.dez-adjust-lr-79,.dez-adjust-lr-80,.dez-adjust-lr-81,.dez-adjust-lr-82,.dez-adjust-lr-83,.dez-adjust-lr-84,.dez-adjust-lr-85,.dez-adjust-lr-86,.dez-adjust-lr-87,.dez-adjust-lr-88,.dez-adjust-lr-89,.dez-adjust-lr-90,.dez-adjust-lr-91,.dez-adjust-lr-92,.dez-adjust-lr-93,.dez-adjust-lr-94,.dez-adjust-lr-95,.dez-adjust-lr-96,.dez-adjust-lr-97,.dez-adjust-lr-98,.dez-adjust-lr-99,.dez-adjust-lr-100
+	{
+		left:0%;
+	}
+	.dez-adjust-ud-1,.dez-adjust-ud-2,.dez-adjust-ud-3,.dez-adjust-ud-4,.dez-adjust-ud-5,.dez-adjust-ud-6,.dez-adjust-ud-7,.dez-adjust-ud-8,.dez-adjust-ud-9,.dez-adjust-ud-10,.dez-adjust-ud-11,.dez-adjust-ud-12,.dez-adjust-ud-13,.dez-adjust-ud-14,.dez-adjust-ud-15,.dez-adjust-ud-16,.dez-adjust-ud-17,.dez-adjust-ud-18,.dez-adjust-ud-19,.dez-adjust-ud-20,.dez-adjust-ud-21,.dez-adjust-ud-22,.dez-adjust-ud-23,.dez-adjust-ud-24,.dez-adjust-ud-25,.dez-adjust-ud-26,.dez-adjust-ud-27,.dez-adjust-ud-28,.dez-adjust-ud-29,.dez-adjust-ud-30,.dez-adjust-ud-31,.dez-adjust-ud-32,.dez-adjust-ud-33,.dez-adjust-ud-34,.dez-adjust-ud-35,.dez-adjust-ud-36,.dez-adjust-ud-37,.dez-adjust-ud-38,.dez-adjust-ud-39,.dez-adjust-ud-40,.dez-adjust-ud-41,.dez-adjust-ud-42,.dez-adjust-ud-43,.dez-adjust-ud-44,.dez-adjust-ud-45,.dez-adjust-ud-46,.dez-adjust-ud-47,.dez-adjust-ud-48,.dez-adjust-ud-49,.dez-adjust-ud-50,.dez-adjust-ud-51,.dez-adjust-ud-52,.dez-adjust-ud-53,.dez-adjust-ud-54,.dez-adjust-ud-55,.dez-adjust-ud-56,.dez-adjust-ud-57,.dez-adjust-ud-58,.dez-adjust-ud-59,.dez-adjust-ud-60,.dez-adjust-ud-61,.dez-adjust-ud-62,.dez-adjust-ud-63,.dez-adjust-ud-64,.dez-adjust-ud-65,.dez-adjust-ud-66,.dez-adjust-ud-67,.dez-adjust-ud-68,.dez-adjust-ud-69,.dez-adjust-ud-70,.dez-adjust-ud-71,.dez-adjust-ud-72,.dez-adjust-ud-73,.dez-adjust-ud-74,.dez-adjust-ud-75,.dez-adjust-ud-76,.dez-adjust-ud-77,.dez-adjust-ud-78,.dez-adjust-ud-79,.dez-adjust-ud-80,.dez-adjust-ud-81,.dez-adjust-ud-82,.dez-adjust-ud-83,.dez-adjust-ud-84,.dez-adjust-ud-85,.dez-adjust-ud-86,.dez-adjust-ud-87,.dez-adjust-ud-88,.dez-adjust-ud-89,.dez-adjust-ud-90,.dez-adjust-ud-91,.dez-adjust-ud-92,.dez-adjust-ud-93,.dez-adjust-ud-94,.dez-adjust-ud-95,.dez-adjust-ud-96,.dez-adjust-ud-97,.dez-adjust-ud-98,.dez-adjust-ud-99,.dez-adjust-ud-100
+	{
+		top:auto;
+	}
+}

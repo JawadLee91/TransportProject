@@ -1,0 +1,319 @@
+/* 
+Date 	: 15-12-2017
+Day 	: Friday
+Framework : No Name
+Developer : Jawad Lee
+Version : nameV1.0Dez
+
+*/
+/* Designer for the desktop Screen */
+body 
+{
+	font-family: Microsoft Sans Serif;
+	font-size:24px;
+	font-weight:bold;
+}
+.container
+{
+	width:100%;
+	background:#f9f9f9;
+}
+.dez-three-col-full,.dez-two-col-full,.dez-one-col-full,
+{
+	opacity:0.7;
+	position:inherit;
+}
+.dez-three-col-full
+{
+	float:left;
+	width:31.1%;
+	text-align:center;
+	border-bottom:3px solid #000000;
+	border-right:1px solid black;
+	padding:1.0%;
+	-webkit-transition:background 1s;
+	transition:background 1s;
+}
+.dez-three-col-full:hover,.dez-two-col-full:hover,.dez-one-col-full:hover
+{
+	background:white;
+	color:black;
+	opacity:1;
+}
+.dez-three-col-full img
+{
+	width:50%;
+	border-radius:100%;
+}
+@media only screen and (max-width:680px)
+{
+	.dez-three-col-full,.dez-two-col-full,.dez-one-col-full
+	{
+		width:100%;
+	}
+}
+@media only screen and (max-width:680px)
+{
+	.dez-three-col-full
+	{
+		width:99%;
+	}
+	.dez-three-col-full img
+	{
+		width:35%;
+	}
+}
+@media only screen and (min-width:680px)
+{
+	.dez-three-col-full img
+	{
+		width:45%;
+	}
+}
+/* -----------------------------------
+The code of two column with full Width
+----------------------------------- */
+@media only screen and (min-width:720px)
+{
+.dez-two-col-full
+{
+	width:45%;
+	float:left;
+	text-align:center;
+	padding:2.4%;
+	border-right:1px solid black;
+	border-bottom:3px solid black;
+	background:#f9f9f9;
+	-webkit-transition:background 1s;
+	transition:background 1s;
+	font-size:26.5px;
+}
+.dez-two-col-full img
+{
+	width:30%;
+	border-radius:100%;
+}
+}
+@media only screen and (max-width:600px)
+{
+.dez-two-col-full,.dez-two-col-half
+{
+	width:99%;
+	float:left;
+	text-align:center;
+	padding:2.4%;
+	border-right:1px solid black;
+	border-bottom:3px solid black;
+	background:#f9f9f9;
+	-webkit-transition:background 1s;
+	transition:background 1s;
+	font-size:26.5px;
+}
+.dez-two-col-full img,.dez-two-col-half img
+{
+	width:30%;
+	border-radius:100%;
+}
+}
+@media only screen and (min-width:601px) and (max-width:720px)
+{
+.dez-two-col-full,.dez-two-col-half
+{
+	width:99%;
+	float:left;
+	text-align:center;
+	padding:2.2%;
+	border-right:1px solid black;
+	border-bottom:3px solid black;
+	background:#f9f9f9;
+	-webkit-transition:background 1s;
+	transition:background 1s;
+	font-size:26.5px;
+}
+.dez-two-col-full img,.dez-two-col-half img
+{
+	width:30%;
+	border-radius:100%;
+}
+}
+@media only screen and (min-width:601px )
+{
+.dez-two-col-full,.dez-two-col-half
+{
+	width:45%;
+	float:left;
+	text-align:center;
+	padding:2.4%;
+	border-right:1px solid black;
+	border-bottom:3px solid black;
+	background:#f9f9f9;
+	-webkit-transition:background 1s;
+	transition:background 1s;
+	font-size:26.5px;
+}
+.dez-two-col-full img
+{
+	width:30%;
+	border-radius:100%;
+}
+}
+/* 
+Dez-one-col-full Code starts from here.
+*/
+.dez-one-col-full
+{
+	width:100%;
+	background:#f9f9f9;
+	text-align:center;
+	padding-top:4%;
+	padding-bottom:4%;
+	font-size:26px;
+	opacity:0.8;
+}
+.dez-one-col-full img
+{
+	width:10%;
+	border-radius:100%;
+}
+@media only screen and (max-width:500px)
+{
+	.dez-one-col-full img
+	{
+		width:30%;
+	}
+}
+@media only screen and (min-width:500px) and (max-width:680px)
+{
+	.dez-one-col-full img
+	{
+		width:30%;
+	}
+}
+@media only screen and (min-width:680px)
+{
+	.dez-one-col-full img
+	{
+		width:15%;
+	}
+}
+/* ====================================== */
+
+.dez-one-col-half
+{
+	width:84.9%;
+	background:#f9f9f9;
+	text-align:center;
+	padding-top:4%;
+	padding-bottom:4%;
+	font-size:26px;
+	opacity:0.8;
+}
+.dez-one-col-half img
+{
+	width:10%;
+	border-radius:100%;
+}
+@media only screen and (max-width:500px)
+{
+	.dez-one-col-half img
+	{
+		width:30%;
+	}
+}
+@media only screen and (min-width:500px) and (max-width:680px)
+{
+	.dez-one-col-half img
+	{
+		width:30%;
+	}
+}
+@media only screen and (min-width:680px)
+{
+	.dez-one-col-half img
+	{
+		width:15%;
+	}
+}
+/* 
+====================================== 
+*/
+/* -----------------------------------
+The code of two column with full Width
+----------------------------------- */
+@media only screen and (min-width:600px)
+{
+.dez-two-col-half
+{
+	width:37.2%;
+	float:left;
+	text-align:center;
+	padding:2.45%;
+	border-right:1px solid black;
+	border-bottom:3px solid black;
+	background:#f9f9f9;
+	-webkit-transition:background 1s;
+	transition:background 1s;
+	font-size:26.5px;
+}
+.dez-two-col-half img
+{
+	width:30%;
+	border-radius:100%;
+}
+}
+/* Code of Dez three columns half */
+.dez-three-col-half
+{
+	float:left;
+	width:27%;
+	text-align:center;
+	border-bottom:3px solid #000000;
+	border-right:1px solid black;
+	padding:0.5%;
+	-webkit-transition:background 1s;
+	transition:background 1s;
+}
+.dez-three-col-half:hover,.dez-two-col-half:hover,.dez-one-col-half:hover
+{
+	background:white;
+	color:black;
+	opacity:1;
+}
+.dez-three-col-half img
+{
+	width:50%;
+	border-radius:100%;
+}
+@media only screen and (max-width:680px)
+{
+	.dez-three-col-half,.dez-two-col-half,.dez-one-col-half
+	{
+		width:100%;
+	}
+}
+@media only screen and (max-width:680px)
+{
+	.dez-three-col-half
+	{
+		width:99%;
+	}
+	.dez-three-col-full img
+	{
+		width:35%;
+	}
+}
+@media only screen and (min-width:680px)
+{
+	.dez-three-col-half img
+	{
+		width:45%;
+	}
+}
+.width-auto
+{
+	width:auto;
+}
+.middle
+{
+	text-align:center;
+}

@@ -1,0 +1,125 @@
+.dez-table-default,.dez-table-stripes,.dez-table-dark,.dez-table-dark-stripes,.dez-table-bordered
+{
+	width:100%;
+	border-collapse:collapse;
+	overflow:scroll;
+}
+.dez-table-default th
+{
+	width:auto;
+	font-size:18px;
+	font-family:Arial Bold;
+	color:#555453;
+	letter-spacing:1.3px;
+	padding:10px;
+	border-bottom:3px solid #E7E6E5;
+	line-height:25px;
+	text-align:left;
+}
+.dez-table-default td
+{
+	font-size:16px;
+	font-family:Arial Regular;
+	color:#54514E;
+	letter-spacing:1px;
+	border-bottom:1.5px solid #E7E6E5;
+	line-height:25px;
+	text-align:left;
+	padding:10px;
+}
+.dez-table-default tr:hover
+{
+	background:#F0EDEA;
+}
+/* This is the end of the Default Dez table Style Code. */
+.dez-table-stripes th
+{
+	width:auto;
+	font-size:18px;
+	font-family:Arial Bold;
+	color:#555453;
+	letter-spacing:1.3px;
+	padding:10px;
+	border-bottom:3px solid #E7E6E5;
+	line-height:25px;
+	text-align:left;
+}
+.dez-table-stripes td
+{
+	font-size:16px;
+	font-family:Arial Regular;
+	color:#54514E;
+	letter-spacing:1px;
+	border-bottom:1.5px solid #E7E6E5;
+	line-height:25px;
+	text-align:left;
+	padding:10px;
+}
+.dez-table-stripes tr:nth-child(even)
+{
+	background:#FAF8F7;
+}
+
+.dez-table-stripes tr:hover
+{
+	background:#F0EDEA;
+}
+/* Well, this is the end of the Dez Table Stripes Style code. */
+.dez-table-dark th
+{
+	width:auto;
+	background:#413F3F;
+	font-size:18px;
+	font-family:Arial Bold;
+	color:#ffffff;
+	letter-spacing:1.3px;
+	padding:10px;
+	border-bottom:3px solid #E7E6E5;
+	line-height:25px;
+	text-align:left;
+}
+.dez-table-dark td
+{
+	font-size:16px;
+	background:#413F3F;
+	font-family:Arial Regular;
+	color:#ffffff;
+	letter-spacing:1px;
+	border-bottom:1.5px solid #E7E6E5;
+	line-height:25px;
+	text-align:left;
+	padding:10px;
+}
+.dez-table-dark tr:hover
+{
+	background:#F0EDEA;
+}
+/* This is the end of the Dark Dez table Style Code. */
+.dez-table-bordered th
+{
+	width:auto;
+	font-size:18px;
+	font-family:Arial Bold;
+	color:#555453;
+	letter-spacing:1.3px;
+	padding:10px;
+	border:3px solid #E7E6E5;
+	line-height:25px;
+	text-align:left;
+}
+.dez-table-bordered td
+{
+	font-size:16px;
+	font-family:Arial Regular;
+	color:#54514E;
+	letter-spacing:1px;
+	border:1.5px solid #E7E6E5;
+	line-height:25px;
+	text-align:left;
+	padding:10px;
+}
+.dez-table-bordered tr:hover
+{
+	background:#F0EDEA;
+}
+/* This is the end of the Default Dez table Style Code. */

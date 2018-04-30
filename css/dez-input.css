@@ -1,0 +1,556 @@
+.dez-input,.dez-input-10,.dez-input-15,.dez-input-20,.dez-input-25,.dez-input-30,.dez-input-35,.dez-input-40,.dez-input-45,.dez-input-50,.dez-input-55,.dez-input-60,.dez-input-65,.dez-input-70,.dez-input-75,.dez-input-80,.dez-input-85,.dez-input-90,.dez-input-95,.dez-input-100
+{
+	padding:1%;
+	font-family:Microsoft Sans Serif;
+	border:2px solid #8F8488;
+	font-size:18px;
+	color:#7D7477;
+	margin-left:2.5;
+	-webkit-transition:all 1s;
+	transition:all 1s;
+	margin-right:2.5;
+	margin-top:10px;
+	margin-bottom:10px;
+	background:#FEFDFD;
+	background:url('../icons/pencil-edit-button.png') right center no-repeat;
+	background-position:10px;
+	padding-left:35px;
+	-webkit-transition:background-position 1s;
+	transition:background-position 1s;
+}
+.dez-input-10
+{
+	width:9%;
+}
+.dez-input-15
+{
+	width:14%;
+}
+.dez-input-20
+{
+	width:19%;
+}
+.dez-input-25
+{
+	width:24%;
+}
+.dez-input-30
+{
+	width:29%;
+}
+.dez-input-35
+{
+	width:34%;
+}
+.dez-input-40
+{
+	width:39%;
+}
+.dez-input-45
+{
+	width:44%;
+}
+.dez-input-50
+{
+	width:49%;
+}
+.dez-input-55
+{
+	width:54%;
+}
+.dez-input-60
+{
+	width:59%;
+}
+.dez-input-65
+{
+	width:64%;
+}
+.dez-input-70
+{
+	width:69%;
+}
+.dez-input-75
+{
+	width:74%;
+}
+.dez-input-80
+{
+	width:79%;
+}
+.dez-input-85
+{
+	width:84%;
+}
+.dez-input-90
+{
+	width:89%;
+}
+.dez-input-95
+{
+	width:94%;
+}
+.dez-input-100
+{
+	width:99%;
+}
+/* --------------------------------------------- */
+/* --------------------------------------------- */
+@media only screen and (min-width:360px) and (max-width:760px)
+{
+	.dez-input,.dez-input-10,.dez-input-15,.dez-input-20,.dez-input-25,.dez-input-30,.dez-input-35,.dez-input-40,.dez-input-45,.dez-input-50,.dez-input-55,.dez-input-60,.dez-input-65,.dez-input-70,.dez-input-75,.dez-input-80,.dez-input-85,.dez-input-90,.dez-input-95,.dez-input-100
+	{
+		width:100%;
+		padding:4%;
+		-webkit-transition:all 1s;
+		transition:all 1s;
+		padding-left:35px;
+		font-size:20px;
+		margin-top:2.5%;
+		margin-bottom:2.5%;
+	}
+}
+/* --------------------------------------------- */
+/* --------------------------------------------- */
+
+
+/* --------------------------------------------- This is the style code for the Dez Input Icons */
+/* --------------------------------------------- */
+.dez-input-search
+{
+	background:url('../icons/magnifying-glass.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-edit
+{
+	background:url('../icons/pencil-edit-button.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-bars
+{
+	background:url('../icons/menu.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-checked
+{
+	background:url('../icons/checked.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-unchecked
+{
+	background:url('../icons/access-denied.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-leftarrow
+{
+	background:url('../icons/left-arrow.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-rightarrow
+{
+	background:url('../icons/right-arrow.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-uparrow
+{
+	background:url('../icons/up-arrow.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-downarrow
+{
+	background:url('../icons/down-arrow.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-download
+{
+	background:url('../icons/download.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-upload
+{
+	background:url('../icons/upload.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-maleuser
+{
+	background:url('../icons/male-user.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-femaleuser
+{
+	background:url('../icons/female-user.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-facebook
+{
+	background:url('../icons/facebook.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-twitter
+{
+	background:url('../icons/twitter.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-instagram
+{
+	background:url('../icons/instagram.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-linkedin
+{
+	background:url('../icons/linkedin.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-googleplus
+{
+	background:url('../icons/google-plus.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-phone
+{
+	background:url('../icons/phone.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-mobile
+{
+	background:url('../icons/mobile.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-home
+{
+	background:url('../icons/home.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-settings
+{
+	background:url('../icons/settings.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-calendar
+{
+	background:url('../icons/calendar.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-bell
+{
+	background:url('../icons/bell.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-message
+{
+	background:url('../icons/message.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-like
+{
+	background:url('../icons/like.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-rupee
+{
+	background:url('../icons/rupee.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-dollar
+{
+	background:url('../icons/dollar.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-play
+{
+	background:url('../icons/play.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-pause
+{
+	background:url('../icons/pause.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-music
+{
+	background:url('../icons/music.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-camera
+{
+	background:url('../icons/camera.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-whatsapp
+{
+	background:url('../icons/whatsapp.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-desktop
+{
+	background:url('../icons/desktop.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-down
+{
+	background:url('../icons/down.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-emptystar
+{
+	background:url('../icons/emptystar.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-folder
+{
+	background:url('../icons/folder.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-fullstar
+{
+	background:url('../icons/fullstar.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-halfstar
+{
+	background:url('../icons/halfstar.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-laptop
+{
+	background:url('../icons/laptop.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-left
+{
+	background:url('../icons/left.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-location
+{
+	background:url('../icons/location.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-lock
+{
+	background:url('../icons/lock.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-memorycard
+{
+	background:url('../icons/memorycard.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-right
+{
+	background:url('../icons/right.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-up
+{
+	background:url('../icons/up.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-youtube
+{
+	background:url('../icons/youtube.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-apple
+{
+	background:url('../icons/apple.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-attachment
+{
+	background:url('../icons/attachment.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-cloud
+{
+	background:url('../icons/cloud.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-code
+{
+	background:url('../icons/code.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-comment
+{
+	background:url('../icons/comment.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-keyboard
+{
+	background:url('../icons/keyboard.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-message
+{
+	background:url('../icons/message.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-minus
+{
+	background:url('../icons/minus.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-plus
+{
+	background:url('../icons/plus.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-recyclebin
+{
+	background:url('../icons/recyclebin.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-refresh
+{
+	background:url('../icons/refresh.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-send
+{
+	background:url('../icons/send.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-typing
+{
+	background:url('../icons/typing.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-unlike
+{
+	background:url('../icons/unlike.png') left center no-repeat;
+	background-position:10px;
+}
+/*=========================================== */
+/*=========================================== */
+.dez-input-wordpress
+{
+	background:url('../icons/wordpress.png') left center no-repeat;
+	background-position:10px ;
+}
+
+
+
+
+/* --------------------------------------------- */
+/* --------------------------------------------- */

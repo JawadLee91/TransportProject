@@ -1,0 +1,6 @@
+.dez-reveal-left
+{
+	position:fixed;left:-100%;border:0.1px solid black;top:25%;opacity:0.1;
+	-webkit-transition:left 1.5s;
+	transition:left 1.5s;
+}

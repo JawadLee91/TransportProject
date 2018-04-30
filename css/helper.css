@@ -1,0 +1,101 @@
+.dez-logo
+{
+	width:170px;
+	height:70px;
+}
+.dez-bg-white
+{
+	background:white;
+}
+
+.display-none
+{
+	display:none;
+}
+.no-shadow
+{
+	box-shadow:none;
+}
+.no-padding
+{
+	padding:0px;
+	width:100%;
+}
+.border
+{
+	border:1px solid #000;
+}
+.no-border
+{
+	border:none;
+}
+p
+{
+	font-size:16px;
+	font-family:Professional;
+}
+.font-normal
+{
+	font-size:16px;
+}
+.font-large
+{
+	font-size:20px;
+}
+.font-xlarge
+{
+	font-size:24px;
+}
+.font-xxlarge
+{
+	font-size:28px;
+}
+.font-xxxlarge
+{
+	font-size:32px;
+}
+.font-small
+{
+	font-size:14px;
+}
+.font-bold
+{
+	font-weight:bold;
+}
+.dez-badge
+{
+	background:#A7A5A4;
+	color:#FFFFFF;
+	padding:5px;
+	margin-left:10px;
+	padding-left:1.5%;
+	padding-right:1.5%;
+	border-radius:4px;
+}
+.this-left
+{
+	float:left;
+}
+.this-right
+{
+	float:right;
+}
+@media only screen and (min-width:360px) and (max-width:760px)
+{
+	.dez-badge
+	{
+		padding:2px;
+		padding-left:10px;
+		padding-right:10px;
+	}
+	.dez-responsive-image
+	{
+		width:50%;
+		margin-left:25%;
+	}
+	.this-left,.this-right
+	{
+		float:none;
+		margin:0.5%;
+	}
+}

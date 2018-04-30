@@ -1,0 +1,35 @@
+.navbars li
+{
+	list-style-type:none;
+	margin-left:2.5%;
+	margin-right:2.5%;
+	text-align:center;
+}
+.navbars li:hover
+{
+	color:blue;
+	border-bottom:3px solid blue;
+}
+.blue-line
+{
+	border-bottom:0.5px solid #f8f8f8;
+}
+.on-screen-data
+{
+	-webkit-transform:rotateZ(45deg) 1s;
+	transform:rotateY(45deg);
+}
+@media only screen and (min-width:360px) and (max-width:1000px)
+{
+	.mobile-display-none
+	{
+		display:none;
+	}
+}
+@media only screen and (min-width:360px) and (max-width:670px)
+{
+	.display-heading-none
+	{
+		display:none;
+	}
+}

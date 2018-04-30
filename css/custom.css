@@ -1,0 +1,68 @@
+.blue-line
+{
+	border-bottom:1px solid blue;
+}
+.display-none
+{
+	display:none;
+}
+.padding-small
+{
+	padding:2px;
+}
+.padding-large
+{
+	padding:6px;
+}
+.background-default
+{
+	background:#642BDD;
+}
+.text-white
+{
+	color:#E7DCFF;
+}
+.float-left
+{
+	float:left;
+}
+.float-right:hover
+{
+	border:0px solid black;
+}
+.active
+{
+	box-shadow:0px 0px 3px black;
+}
+body a
+{
+	text-decoration:none;
+}
+.fixed
+{
+	position:fixed;
+}
+.text-black
+{
+	color:black;
+}
+.text-center
+{
+	text-align:center;
+}
+.text-left
+{
+	text-align:left;
+}
+.text-right
+{
+	text-align:right;
+}
+.light-grey
+{
+	background:#f9f9f9;
+}
+.data-hide
+{
+	display:none;
+}

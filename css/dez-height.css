@@ -1,0 +1,208 @@
+/* 
+
+This is a style sheet code of Evaluating the height of the Content
+Framework case : dez-height
+Height From : 25px
+Height To : 1200px
+Height Difference : 25px
+Mobile Compatability : True
+*/
+.dez-height-25
+{
+	height:25px;
+}
+.dez-height-50
+{
+	height:50px;
+}
+.dez-height-75
+{
+	height:75px;
+}
+.dez-height-100
+{
+	height:100px;
+}
+.dez-height-125
+{
+	height:125px;
+}
+.dez-height-150
+{
+	height:150px;
+}
+.dez-height-175
+{
+	height:175px;
+}
+.dez-height-200
+{
+	height:200px;
+}
+.dez-height-225
+{
+	height:225px;
+}
+.dez-height-250
+{
+	height:250px;
+}
+.dez-height-275
+{
+	height:275px;
+}
+.dez-height-300
+{
+	height:300px;
+}
+.dez-height-325
+{
+	height:325px;
+}
+.dez-height-350
+{
+	height:350px;
+}
+.dez-height-375
+{
+	height:375px;
+}
+.dez-height-400
+{
+	height:400px;
+}
+.dez-height-425
+{
+	height:425px;
+}
+.dez-height-450
+{
+	height:450px;
+}
+.dez-height-475
+{
+	height:475px;
+}
+.dez-height-500
+{
+	height:500px;
+}
+.dez-height-525
+{
+	height:525px;
+}
+.dez-height-550
+{
+	height:550px;
+}
+.dez-height-575
+{
+	height:575px;
+}
+.dez-height-600
+{
+	height:600px;
+}
+.dez-height-625
+{
+	height:625px;
+}
+.dez-height-650
+{
+	height:650px;
+}
+.dez-height-675
+{
+	height:675px;
+}
+.dez-height-700
+{
+	height:700px;
+}
+.dez-height-725
+{
+	height:725px;
+}
+.dez-height-750
+{
+	height:750px;
+}
+.dez-height-775
+{
+	height:775px;
+}
+.dez-height-800
+{
+	height:800px;
+}
+.dez-height-825
+{
+	height:825px;
+}
+.dez-height-850
+{
+	height:850px;
+}
+.dez-height-875
+{
+	height:875px;
+}
+.dez-height-900
+{
+	height:900px;
+}
+.dez-height-925
+{
+	height:925px;
+}
+.dez-height-950
+{
+	height:950px;
+}
+.dez-height-975
+{
+	height:975px;
+}
+.dez-height-1000
+{
+	height:1000px;
+}
+.dez-height-1025
+{
+	height:1025px;
+}
+.dez-height-1050
+{
+	height:1050px;
+}
+.dez-height-1075
+{
+	height:1075px;
+}
+.dez-height-1100
+{
+	height:1100px;
+}
+.dez-height-1125
+{
+	height:1125px;
+}
+.dez-height-1150
+{
+	height:1150px;
+}
+.dez-height-1175
+{
+	height:1175px;
+}
+.dez-height-1200
+{
+	height:1200px;
+}
+@media only screen and (min-width:360px) and (max-width:640px)
+{
+		.dez-height-25,.dez-height-50,.dez-height-75,.dez-height-100,.dez-height-125,.dez-height-150,.dez-height-175,.dez-height-200,.dez-height-225,.dez-height-250,.dez-height-275,.dez-height-300,.dez-height-325,.dez-height-350,.dez-height-375,.dez-height-400,.dez-height-425,.dez-height-450,.dez-height-475,.dez-height-500,.dez-height-525,.dez-height-550,.dez-height-575,.dez-height-600,.dez-height-625,.dez-height-650,.dez-height-675,.dez-height-700,.dez-height-725,.dez-height-750,.dez-height-775,.dez-height-800,.dez-height-825,.dez-height-850,.dez-height-875,.dez-height-900,.dez-height-925,.dez-height-950,.dez-height-975,.dez-height-1000,.dez-height-1025,.dez-height-1050,.dez-height-1075,.dez-height-1100,.dez-height-1125,.dez-height-1150,.dez-height-1175,.dez-height-1200
+		{
+			height:auto;
+		}
+}

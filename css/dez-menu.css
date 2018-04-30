@@ -1,0 +1,49 @@
+@media only screen and (min-width:720px)
+{
+.dez-menu
+{
+	width:15%;
+	height:auto;
+	background:white;
+	overflow:auto;
+	text-align:center;
+	box-shadow:0px 0px 2px black;
+}
+.dez-menu p
+{
+	padding:2px;
+	text-align:left;
+	-webkit-transition:box-shadow 1s;
+	transition:box-shadow 1s;
+}
+.dez-menu p:hover
+{
+	color:#3E3D3F;
+	box-shadow:0px 0px 2px black;
+}
+}
+@media only screen and (max-width:720px)
+{
+	.dez-menu
+	{
+	width:100%;
+	height:auto;
+	background:white;
+	overflow:auto;
+	text-align:center;
+	box-shadow:0px 0px 2px black;
+	}
+	.dez-menu p
+	{
+		padding:2px;
+		text-align:left;
+		-webkit-transition:box-shadow 1s;
+		transition:box-shadow 1s;
+	}
+	.dez-menu p:hover
+	{
+		color:#3E3D3F;
+		box-shadow:0px 0px 2px black;
+	}
+
+}

@@ -1,0 +1,95 @@
+.dez-bg-success
+{
+	background:#68EBAB;				/* This is the LIGHT GREEN Background Color */
+	-webkit-transition:background 1s;
+}
+.dez-bg-success:hover
+{
+	background:#73FDBA;
+}
+.dez-font-success
+{
+	color:#68EBAB;					/* This is the LIGHT GREEN Font COlor */
+}
+.dez-border-success
+{
+	border:1px solid #68EBAB;		/* This is the LIGHT GREEN Border 1px Solid  */
+}
+.dez-shadow-success
+{
+	box-shadow:0px 0px 2px #68EBAB;	/* This is the LIGHT GREEN Shadow  */
+}
+/*------------------------- This is the End of the Success Section */
+
+.dez-bg-danger
+{
+	background:#F35564;				/* This is the LIGHT BROWN Background Color */
+	-webkit-transition:background 1s;
+}
+.dez-bg-danger:hover
+{
+	background:#F4737F;
+}
+.dez-font-danger
+{
+	color:#F35564;					/* This is the LIGHT BROWN Font COlor */
+}
+.dez-border-danger
+{
+	border:1px solid #F35564;		/* This is the LIGHT BROWN Border 1px Solid */
+}
+.dez-shadow-danger
+{
+	box-shadow:0px 0px 2px #F35564;	/* This is the LIGHT BROWN Shadow */
+}
+/*------------------------- This is the End of the Danger Section */
+
+.dez-bg-happy
+{
+	background:#E7F151;				/* This is the LIGHT YELLOW Background Color */
+	-webkit-transition:background 1s;
+}
+.dez-bg-happy:hover
+{
+	background:#F4FD68;
+}
+.dez-font-happy
+{
+	color:#BAC333;					/* This is the LIGHT YELLOW Font COlor */
+}
+.dez-border-happy
+{
+	border:1px solid #E7F151;		/* This is the LIGHT YELLOW Border 1px Solid */
+}
+.dez-shadow-happy
+{
+	box-shadow:0px 0px 2px #E7F151;	/* This is the LIGHT YELLOW Shadow */
+}
+/*------------------------- This is the End of the Happy Section */
+.dez-bg-warning
+{
+	background:#F8883C;				/* This is the LIGHT RED Background Color */
+	-webkit-transition:background 1s;
+}
+.dez-bg-warning:hover
+{
+	background:#E4823F;
+}
+.dez-font-warning
+{
+	color:#CE773B;					/* This is the LIGHT RED Font COlor */
+}
+.dez-border-warning
+{
+	border:1px solid #F8883C;		/* This is the LIGHT RED Border 1px Solid */
+}
+.dez-shadow-warning
+{
+	box-shadow:0px 0px 2px #F8883C;	/* This is the LIGHT RED Shadow */
+}
+/*------------------------- This is the End of the Warning Section */
+
+
+
+
+

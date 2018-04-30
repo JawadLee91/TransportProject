@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>DRIVER PAGE</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Style the header */
+.header {
+    background-color: #f1f1f1;
+    padding: 5px;
+    text-align: center;
+    font-size: 18px;
+}
+/* Style the anchor */
+.anchor {
+    background-color: #808080;
+    padding: 4px;
+    font-size: 14px;
+}
+
+/* Create three unequal columns that floats next to each other */
+.column {
+    float: right;
+    padding: 4px;
+    height: 350px; /* Should be removed. Only for demonstration */
+}
+
+/* Left column */
+.column.left {
+   width: 0%;
+    
+}
+
+/*  Right column */
+.column.right {
+    text-align: center;
+    width: 100%;
+   
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+/* Style the footer */
+.footer {
+    background-color: #808080;
+    padding: 1px;
+    text-align: center;
+}
+
+
+/* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
+@media (max-width: 600px) {
+    .column.left, .column.right {
+        width: 100%;
+   
+}
+</style>
+<div class="header">
+  <h2>Packers and Movers management system</h2>
+  </div>
+<div class="anchor">
+  <h3>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href ="" >Home</a>
+&emsp;&emsp;&emsp;&emsp;&emsp;<a href ="" >About Us</a>
+&emsp;&emsp;&emsp;&emsp;&emsp;<a href ="" >Our Services</a>
+&emsp;&emsp;&emsp;&emsp;&emsp;<a href ="" >Online Quote</a>
+&emsp;&emsp;&emsp;&emsp;&emsp;<a href ="" >Estimation</a>
+&emsp;&emsp;&emsp;&emsp;&emsp;<a href ="" >Contact Us</a>
+&emsp;
+</h3>
+</div>
+</head>
+<body>
+<h2>&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Driver Details</h2>
+<div class="row">
+<div class="column right " >
+<form align="center">
+Driver Name&emsp; <input type="text" name="user"><br><br>
+Driver Licence No.&emsp; <input type="text" name="user"><br><br>
+Driver Contact No.&emsp; <input type="text" name="user"><br><br>
+Driver Experiance&emsp;  <input type="text" name="pass"><br><br>
+<input type="button" value="Submit"  />
+<input type="button" value="Reset"  />
+<input type="button" value="Delete"  /><br><br>
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Get Details Search&emsp;<input type="text" name="details"><br><br><br><br><br>
+</form>
+
+<div class="footer">
+  <p>HelpLine No : 6768899888</p>
+</div>
+
+</body>
+</html>
